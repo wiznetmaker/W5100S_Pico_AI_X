@@ -55,18 +55,23 @@ Combine the text I received from the reply I received earlier with the text I wi
 You can easily proceed by checking the link below.
 
 Writing discord messages / W5100S + Pico
+
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/f45b8b45-f271-4b5e-a46f-80f4799910c0)
 
 Instead, "Then" selects "Post a sweet with image" as shown in the image below.
+
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/6c721193-2fd9-446a-aacb-752b6e5d071c)
 
 And add Value1 and Value2 respectively. complete!
+
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/77cb81ed-d95e-4d7b-a2b4-51146156dd76)
 
 Twitter has created a new sub-account. The above IFTTT is linked to this account.
+
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/7502aa4c-e914-4b74-9620-0023656353b0)
 
 And you can use IFTTT like this.
+
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/ecc54eb6-a7ba-4536-86b6-db9cdd8559b7)
 
 image url enters the capture url of Arducam.
