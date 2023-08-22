@@ -88,11 +88,9 @@ Fortunately, there is a picture of him on Twitter.
 
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/a76ff51c-4097-41de-ae44-6f1706d76693)
 
-
 Show the father's face to the child. I'm really curious what kind of answer he'll give.
 
 ![image](https://github.com/wiznetmaker/W5100S_Pico_AI_X/assets/111826791/23c38b6d-0a5d-4e27-8fd3-7aad81265b0a)
-
 
 He answers with great fun. hahaha.  Even the tag is perfect. 
 
